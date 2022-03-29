@@ -30,7 +30,7 @@ const Homepage = ()=>{
                         <h1>Hello! &#x1F590; I am Prashant Jha</h1>
                     </div>
                     <div className="description">
-                        <h2>Currenlty a Masters' Student in SUNY Buffalo UB,</h2><br/>
+                        <h2>Currently a Masters' Student in SUNY Buffalo UB,</h2><br/>
                         <h2>I have 2+ years of work experience in Software Development, Server management & monitoring </h2>
                     </div>
                 </div>
