@@ -17,10 +17,10 @@ const Homepage = ()=>{
                 </div>
                 <div className="navbar-right">
                     <ul>
-                        <li><h2><a href="navbar" > Home </a></h2></li>
-                        <li><h2><a href="project">Projects</a></h2></li>
-                        <li><h2><a href="about">About</a></h2></li>
-                        <li><h2><a href="contact">Contact</a></h2></li>
+//                         <li><h2><a href="navbar" > Home </a></h2></li>
+//                         <li><h2><a href="project">Projects</a></h2></li>
+//                         <li><h2><a href="about">About</a></h2></li>
+//                         <li><h2><a href="contact">Contact</a></h2></li>
                     </ul>
                 </div>
             </div>
